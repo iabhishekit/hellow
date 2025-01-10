@@ -1,10 +1,10 @@
 {
-    "name": "Your Plugin Name",
-    "slug": "your-plugin-slug",
+    "name": "Hello World Plugin",
+    "slug": "hw-license",
     "version": "1.1", // New version number
-    "author": "Your Name",
-    "homepage": "https://your-plugin-website.com",
-    "download_url": "https://your-server.com/path-to-new-version.zip",
+    "author": "abhishek",
+    "homepage": "http://localhost/product_review/",
+    "download_url": "http://localhost/product_review/wp-content/uploads/2025/01/hellow.zip",
     "requires": "5.0", // Minimum WordPress version
     "tested": "6.3", // WordPress version tested up to
     "requires_php": "7.2", // Minimum PHP version
