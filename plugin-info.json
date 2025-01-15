@@ -1,7 +1,7 @@
 {
     "name": "Hello World Plugin",
     "slug": "hello-world-plugin",
-    "version": "1.5",
+    "version": "1.2.0",
     "author": "Abhishek Verma",
     "homepage": "http://localhost/product_review/",
     "download_url": "https://github.com/iabhishekit/hellow/releases/download/v1.2.0/hellow.zip",
