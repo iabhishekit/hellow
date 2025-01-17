@@ -4,7 +4,7 @@
     "version": "1.2.0",
     "author": "Abhishek Verma",
     "homepage": "http://localhost/product_review/",
-    "download_url": "http://localhost/product_review/wp-content/uploads/2025/01/hellow-1.zip",
+    "download_url": "https://github.com/iabhishekit/hellow/releases/download/v1.2.0/hellow.zip",
     "requires": "5.0",
     "tested": "6.3",
     "requires_php": "7.2",
