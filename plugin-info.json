@@ -12,4 +12,5 @@
         "description": "A plugin that prints 'Hello World' with updates and license validation.",
         "changelog": "Version 1.1: Added auto-update feature."
     }
+    "homepage": "https://github.com/iabhishekit/hellow"
 }
